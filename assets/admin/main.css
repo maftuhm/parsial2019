@@ -1,0 +1,58 @@
+/*=================== ADMIN =================*/
+
+/*#dataTable_wrapper > div:nth-child(2) > div
+{
+	width:100%;
+	margin-bottom:15px;
+	overflow-y:hidden;
+	-ms-overflow-style:-ms-autohiding-scrollbar;
+	border:1px solid #ddd
+}
+#dataTable_wrapper > div:nth-child(2){
+	margin: 0;
+}*/
+.min-width-70{
+	min-width: 70px;
+}
+.min-width-80{
+	min-width: 80px;
+}
+.min-width-90{
+	min-width: 90px;
+}
+.min-width-100{
+	min-width: 100px;
+}
+.min-width-150{
+	min-width: 150px;
+}
+.min-width-200{
+	min-width: 200px;
+}
+.min-width-250{
+	min-width: 250px;
+}
+.table-profile th{
+	text-align: right !important;
+}
+.image-pa{
+	max-width: 250px;
+	max-height: 250px;
+}
+.url_action{
+	margin-right: 5px;
+	color: #000000;
+}
+.btn-action{
+	margin: 0 5px !important;
+}
+.actions{
+	display: none;
+	font-size: 12px;
+}
+.show-actions{
+	display: block;
+}
+#dataTable > tbody > tr{
+	min-height: 57px;
+}
